@@ -1,0 +1,7 @@
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\bin\Debug\HL2Trainer.exe.config
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\bin\Debug\HL2Trainer.exe
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\bin\Debug\HL2Trainer.pdb
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\bin\Debug\VAMemory.dll
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\obj\Debug\HL2Trainer.csprojResolveAssemblyReference.cache
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\obj\Debug\HL2Trainer.exe
+E:\Bitbucket\MiniBook\HL2Trainer\HL2Trainer\obj\Debug\HL2Trainer.pdb
